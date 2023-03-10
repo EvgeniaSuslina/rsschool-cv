@@ -1,16 +1,16 @@
 # Evgenia Suslina
 *********
 
-## Junior Frontend Developer
+#### Junior Frontend Developer
 *********
 
 ### Contact Information
 
-    - Phone: +7 915 353 53 14
-    - E-mail: ryazanceva.evgenia.95@gmail.com
-    - GitHub: https://github.com/EvgeniaSuslina
-    - Telegram: @e_ryazanceva
-    - Discord: Evgenia R#7614
+- Phone: +7 915 353 53 14
+- E-mail: ryazanceva.evgenia.95@gmail.com
+- GitHub: https://github.com/EvgeniaSuslina
+- Telegram: @e_ryazanceva
+- Discord: Evgenia R#7614
 
 ### About Me
 *********
@@ -27,12 +27,12 @@ I have good discipline, a high ability to learn and I can work in multitask mode
 ### Skills
 *********
 
-    - HTML5
-    - CSS3 (SASS/SCSS, BEM)
-    - JavaScript (Fundamentals, ES6+, DOM, JSON)
-    - React
-    - Git, GitHub
-    - VS Code
+- HTML5
+- CSS3 (SASS/SCSS, BEM)
+- JavaScript (Fundamentals, ES6+, DOM, JSON)
+- React
+- Git, GitHub
+- VS Code
 
 ### Code Example
 *********
@@ -72,6 +72,6 @@ function positiveSum(arr) {
 ### Languages
 *********
 
-    - Russian: native speaker
-    - English: B2
-    - Spanish: A2
+- Russian: native speaker
+- English: B2
+- Spanish: A2
